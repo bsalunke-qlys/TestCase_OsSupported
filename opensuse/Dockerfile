@@ -1,2 +1,2 @@
 ARG IMAGE_TAG=latest
-FROM opensuse:${IMAGE_TAG}
+FROM opensuse/leap:${IMAGE_TAG}
