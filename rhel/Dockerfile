@@ -1,2 +1,2 @@
 ARG IMAGE_TAG=latest
-FROM redhat-ubi7-minimal:${IMAGE_TAG}
+FROM qualysdemo/checkoutapp:rhel7-CMS-941 
